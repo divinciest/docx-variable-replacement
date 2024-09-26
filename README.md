@@ -1,4 +1,3 @@
-  DOCX Variable Replacement Library
 
 DOCX Variable Replacement Library
 =================================
